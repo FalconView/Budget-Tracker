@@ -28,16 +28,16 @@ https://enigmatic-everglades-13899.herokuapp.com/
    1. Enter name of the transaction and its amount.
       ![alt text](./assets/images/screen03_add-fund1.png)
    2. Click `+ Add Funds` button.
-      ![alt text](./assets/images/screen03_add-fund2.png)
+      ![alt text](./assets/images/screen04_add-fund2.png)
 4. Subtract your purchases from your budget
    1. Enter name of the transaction and its amount.
-      ![alt text](./assets/images/screen04_subtract-fund1.png)
+      ![alt text](./assets/images/screen03_add-fund1.png)
    2. Click `- Subtract Funds` button.
-      ![alt text](./assets/images/screen04_subtract-fund2.png)
+      ![alt text](./assets/images/screen04_add-fund2.png)
 5. Can be used in offline network environment
    - It will save your transactions in its database even while you are offline.
    - It persists your offline transactions when you are back online.
-     ![alt text](./assets/images/screen05_offline-functionality.gif)
+     ![alt text](./assets/images/Untitled_%20Jul%2029%2C%202022%207_39%20AM.gif)
 6. Install the app
    - PC: Click the install button on the right-hand side of the url text area.<br/>
      ![alt text](./assets/images/screen06_install.png)
